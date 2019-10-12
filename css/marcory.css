@@ -25,13 +25,13 @@ ul li a {
     color: #ffffff;
     border-top: 1px solid #ffffff;
     padding: 5px 15px 5px 15px;
-    background: #1e7c9a;
+    background: #177e53;
     margin-left: 1px;
     white-space: nowrap;
 }
 
 ul li a:hover {
-    background: #3b3b3b;
+    background: #728530;
 }
 
 li:hover ul {
@@ -45,9 +45,9 @@ li:hover li {
 }
 
 li:hover a {
-    background: #3b3b3b;
+    background: #31799b;
 }
 
 li:hover li a:hover {
-    background: #1e7c9a;
+    background: #0c0e0f;
 }
