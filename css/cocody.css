@@ -11,17 +11,6 @@
 
 #menuDivDescription {
     height: 20%;
-    <style>menuTable {
-        width: 400px;
-        border-collapse: separate;
-        border-spacing: 10px;
-        border: 1px solid blue;
-    }
-    .menuTable th,
-    .menuTable td {
-        border: 1px solid blue;
-    }
-    </style>
 }
 
 ul {
@@ -69,4 +58,9 @@ li:hover a {
 
 li:hover li a:hover {
     background: #1e7c9a;
+}
+
+#menuDivDescription div {
+    display: inline-block;
+    width: 49%;
 }
