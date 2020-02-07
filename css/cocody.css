@@ -9,6 +9,10 @@
     height: 20%;
 }
 
+#menuDivDescription {
+    height: 20%;
+}
+
 ul {
     font-family: Arial, Verdana;
     font-size: 14px;
@@ -54,4 +58,9 @@ li:hover a {
 
 li:hover li a:hover {
     background: #1e7c9a;
+}
+
+#menuDivDescription div {
+    display: inline-block;
+    width: 49%;
 }
